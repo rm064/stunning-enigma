@@ -1,0 +1,12 @@
+
+# Meine Erfahrungen für diesen Meilenstein
+
+In diesem zweiten Meilenstein konnte ich meine ***HTML Kenntnisse*** noch einmal ***aufbessern***. 
+
+## Mein Datenmanifest
+
+Bei der Erstellung meines Datenmanifests galt es folgende Fragen zu beantworten:
+
+1. Wem gehören meine Daten ?
+
+* Wie schütze ich meine und andere Daten?
